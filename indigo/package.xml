@@ -22,7 +22,7 @@
   <!-- <depend></depend> -->
 
   <export>
-    <rosdoc external_url="http://hypothesis.works/" />
+    <rosdoc external_url="https://github.com/box/flaky" />
   </export>
 
 </package>
